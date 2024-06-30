@@ -1,0 +1,16 @@
+
+
+.card {
+    border-radius: 1rem;
+}
+
+.btn-primary {
+    background-color: #ff9a9e;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.color:hover {
+    border-color: #ffffff !important;
+   
+}

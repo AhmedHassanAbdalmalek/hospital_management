@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+.btn-primary {
+    background-color: #6e8efb;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #a777e3;
+}
